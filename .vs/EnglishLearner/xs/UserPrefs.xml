@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{010F8D71-001F-6530-10BB-46C1913BCAFF}|">
+  <MonoDevelop.Ide.ItemProperties.GameLogic PreferredExecutionTarget="01ebed72-86f0-466a-9660-2f6b25980e42" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tests/TestsEdit/SpaceshipTests.cs">
+    <Files>
+      <File FileName="Assets/Tests/TestsEdit/SpaceshipTests.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnglishLearner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="TestsEdit" expanded="True">
+                  <Node name="SpaceshipTests.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e280c01-410a-49a8-a938-40ec2504fd57" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
